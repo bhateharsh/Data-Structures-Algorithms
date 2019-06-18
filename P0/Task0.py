@@ -166,7 +166,7 @@ def isMax(day1, hr1, mins1, sec1, day2, hr2, mins2, sec2):
 
     Returns
     -------
-    isMin: bool
+    isMax: bool
     True if time-stamp1 > time-stamp2
     """
     # Checking days
